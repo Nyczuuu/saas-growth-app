@@ -116,7 +116,7 @@ img {
 
 .testimonials .testimonials-heading {
   width: 700px;
-  margin-bottom: 40px;
+  margin: 0 auto 40px;
 }
 
 .testimonials .testimonials-grid {
